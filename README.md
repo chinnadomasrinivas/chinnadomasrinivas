@@ -93,11 +93,14 @@ class Srinivas:
 
 ---
 
-### 🏆 GitHub Trophies
+### 🌟 My Projects
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chinnadomasrinivas&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+| 📁 Project | 🛠️ Tech | 📝 Description | 🔗 Link |
+|:---|:---:|:---|:---:|
+| **Python_Practice** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | Daily Python code — variables, data types, expressions & more | [View →](https://github.com/chinnadomasrinivas/Python_Pactice) |
+| **More coming...** | 🚧 | Adding new projects every day! | Soon |
 
 </div>
 
@@ -116,21 +119,31 @@ class Srinivas:
 
 ---
 
-### 🌟 Latest Project
+### 📈 Contribution Graph
 
 <div align="center">
 
-[![Python Practice](https://github-readme-stats.vercel.app/api/pin/?username=chinnadomasrinivas&repo=Python_Pactice&theme=tokyonight&hide_border=true)](https://github.com/chinnadomasrinivas/Python_Pactice)
+[![Srinivas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chinnadomasrinivas&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-### 📈 Contribution Graph
+### 🏆 Milestones — Unlocking One Day at a Time
 
 <div align="center">
 
-[![Srinivas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chinnadomasrinivas&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| Badge | Milestone | Status |
+|:---:|:---|:---:|
+| 🐣 | Created GitHub account | ✅ Done |
+| 🐍 | Wrote first Python file | ✅ Done |
+| 📁 | Pushed first commit | ✅ Done |
+| 🔥 | 7-day commit streak | 🔄 In Progress |
+| 💯 | 30 days of code | ⏳ Coming Soon |
+| 🌟 | First GitHub star | ⏳ Coming Soon |
+| 🚀 | First web project | ⏳ Coming Soon |
+| 🤖 | First AI/ML project | ⏳ 2029 |
+| 🏢 | Land first dev job | ⏳ 2030 |
 
 </div>
 
