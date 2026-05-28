@@ -1,10 +1,5 @@
 <div align="center">
 
-# Hey there, I'm Srinivas Chinnadoma 👋
-
-### 🐍 Python Learner → 🚀 Future Full Stack + AI Developer
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srinivas%20Chinnadoma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BTech%20CSE%20%40%20NIAT%20%7C%20Python%20Learner%20%7C%20Future%20AI%20Developer&descAlignY=55&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=print(%22Hello%2C+World!%22)+%F0%9F%90%8D;Day+1+of+my+Coding+Journey+%F0%9F%9A%80;Building+from+Zero+to+Full+Stack+%2B+AI+%F0%9F%8E%AF;Showing+up+every+single+day+%F0%9F%92%AA)](https://git.io/typing-svg)
@@ -143,91 +138,5 @@ class Srinivas:
 **⭐ Star my repos • 🤝 Connect on LinkedIn • 📩 Let's grow together!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-chinna-doma/)
-[![GitHub followers](https://img.shields.io/github/followers/chinnadomasrinivas?label=Follow&style=for-the-badge)](https://github.com/chinnadomasrinivas)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-srinivas = {
-    "name"     : "Srinivas Chinnadoma",
-    "location" : "Hyderabad, Telangana 🇮🇳",
-    "education": "BTech CSE @ NIAT (2026–2030)",
-    "status"   : "Day 1 of my coding journey 🚀",
-    "learning" : ["Python", "Variables", "Data Types", "Expressions"],
-    "goal"     : "Full Stack + AI Developer by 2030",
-    "daily"    : "Code 7PM–10:30PM | Push to GitHub every day",
-    "motto"    : "I'm not there yet — but I'm showing up every day 💪"
-}
-```
-
----
-
-## 🛠️ Skills (Building From Scratch)
-
-| Currently Learning | Next Up |
-|---|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | HTML & CSS |
-| Variables & Data Types | JavaScript |
-| Git & GitHub | React |
-
----
-
-## 📈 My Coding Commitment
-
-- 🕖 **Daily coding:** 7PM – 10:30PM every single day
-- 📤 **GitHub:** Push code every day — no off days
-- 📢 **Learning in public:** Sharing my journey openly
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Srinivas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinnadomasrinivas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chinnadomasrinivas&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinnadomasrinivas&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🗺️ Journey Roadmap
-
-```
-2026 ████░░░░░░░░  Python Fundamentals        ← YOU ARE HERE
-2026 ░░░░░░░░░░░░  Web Dev (HTML/CSS/JS)
-2027 ░░░░░░░░░░░░  React + Node.js
-2028 ░░░░░░░░░░░░  Databases + APIs
-2029 ░░░░░░░░░░░░  AI/ML Integration
-2030 ░░░░░░░░░░░░  Full Stack + AI Developer 🎯
-```
-
----
-
-## 📂 My Repositories
-
-| Repo | Description |
-|---|---|
-| [Python_Practice](https://github.com/chinnadomasrinivas/Python_Pactice) | 🐍 Daily Python code — from Day 1 onwards |
-
----
-
-<div align="center">
-
-### 💬 Let's Connect & Grow Together!
-
-*"Every expert was once a beginner. I'm showing up every day."*
-
-⭐ **Star my repos if you find them helpful!**
 
 </div>
