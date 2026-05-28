@@ -1,189 +1,136 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12,20,24&height=200&section=header&text=Srinivas%20Chinnadoma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🐍%20Python%20Learner%20%7C%20🎓%20BTech%20CSE%20@%20NIAT%20%7C%20🚀%20Future%20AI%20Developer&descSize=15&descAlignY=58&descColor=a8daff" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%F0%9F%91%8B+Hey!+I'm+Srinivas+from+Hyderabad;print(%22Hello%2C+World!%22)+%F0%9F%90%8D+%E2%80%94+Day+1+begins!;7PM+-+10:30PM+%3D+Code+Time+%E2%8F%B0;Showing+up+every+single+day+%F0%9F%92%AA;Full+Stack+%2B+AI+Developer+by+2030+%F0%9F%8E%AF)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Srinivas%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BTech%20CSE%20%7C%20Python%20Learner%20%7C%20Future%20AI%20Developer&descAlignY=55&descSize=18"/>
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=print(%22Hello%2C+World!%22)+🐍;Day+1+of+my+Coding+Journey+🚀;Learning+Python+—+7PM+to+10%3A30PM+daily+💪;Future+Full+Stack+%2B+AI+Developer+🎯;Showing+up+every+single+day+✅)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-chinna-doma/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinnadomasrinivas)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinnadomasrinivas@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=chinnadomasrinivas&label=Profile+Views&color=00d9ff&style=for-the-badge)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-chinna-doma/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinnadomasrinivas)
+![Profile Views](https://komarev.com/ghpvc/?username=chinnadomasrinivas&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 ```python
-#!/usr/bin/env python3
-# srinivas.py — v1.0.0 (Day 1)
-
 class Srinivas:
-
-    name     = "Srinivas Chinnadoma"
-    age      = 18
-    location = "Hyderabad, India 🇮🇳"
-    college  = "NIAT — BTech CSE"
-    batch    = "2026 → 2030"
-    status   = "🟢 Currently coding..."
-
-    skills_now  = ["Python 🐍", "Git", "VS Code"]
-    skills_next = ["HTML/CSS", "JS", "React"]
-    skills_goal = ["Node.js", "AI/ML", "System Design"]
-
-    daily_grind = {
-        "start"  : "7:00 PM",
-        "end"    : "10:30 PM",
-        "action" : "Code. Commit. Repeat. 🔁"
-    }
-
-    dream = "Full Stack + AI Developer @ Top Company 🎯"
+    def __init__(self):
+        self.name       = "Srinivas Chinnadoma"
+        self.location   = "Hyderabad, India 🇮🇳"
+        self.education  = "BTech CSE @ NIAT (2026–2030)"
+        self.current    = "Day 1 of Python Journey 🐍"
+        self.goal       = "Full Stack + AI Developer 🎯"
+        self.daily      = "Code 7PM – 10:30PM | Push to GitHub"
 
     def motto(self):
-        return "I'm not there yet — but I'm showing up 💪"
-
-me = Srinivas()
-print(me.motto())
-# Output: I'm not there yet — but I'm showing up 💪
+        return "Not there yet — but showing up every day 💪"
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
+<br/>
 
-<br><br>
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="coding gif"/>
-
-<br><br>
-
-![Snake animation](https://raw.githubusercontent.com/chinnadomasrinivas/chinnadomasrinivas/output/github-contribution-grid-snake-dark.svg)
-
-</td>
-</tr>
-</table>
+- 🎓 Freshly started **BTech CSE** at NIAT, Hyderabad
+- 🌱 Currently learning **Python** from absolute zero
+- 💻 **5 Python files** written on Day 1 alone
+- 🔥 Committed to **#100DaysOfCode** — no breaks
+- 🤝 Open to connect with fellow beginners & developers
+- ⚡ Fun fact: My first line of code was `print("Hello, World!")`
 
 ---
 
-## 🏆 GitHub Trophies
+### 🛠️ Tech Stack
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chinnadomasrinivas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinnadomasrinivas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnadomasrinivas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=chinnadomasrinivas&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6B35&ring=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-**✅ Currently Using**
+**Currently Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**🔜 Learning Next**
+**Coming Soon 🚧**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**🎯 Future Goals**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
-## 🗺️ My 4-Year Journey: Zero → Hero
-
-<div align="center">
+### 🗺️ My 4-Year Roadmap to Success
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                    SRINIVAS'S ROADMAP 🗺️                         ║
-╠══════════════════════════════════════════════════════════════════╣
-║  📍 2026 Q2  Python Basics, Git, VS Code         ← HERE NOW     ║
-║     2026 Q3  OOP, File I/O, Libraries                           ║
-║     2026 Q4  HTML · CSS · JavaScript Fundamentals               ║
-║  🌐 2027 Q1  React.js + Responsive Design                       ║
-║     2027 Q2  Node.js + Express + REST APIs                      ║
-║     2027 Q3  SQL + MongoDB + Database Design                    ║
-║     2027 Q4  First Full Stack Project 🚀                        ║
-║  🧠 2028 Q1  Data Structures & Algorithms                       ║
-║     2028 Q2  System Design + Open Source                        ║
-║     2028 Q3  Internship Hunt Begins 💼                          ║
-║  🤖 2029 Q1  Machine Learning + Python AI Libs                  ║
-║     2029 Q2  LLMs · RAG · AI-Powered Apps                       ║
-║     2029 Q4  Build an AI SaaS Product 🔥                        ║
-║  🎯 2030     Full Stack + AI Developer @ Top Company ⭐         ║
-╚══════════════════════════════════════════════════════════════════╝
+📍 2026  ████████░░░░░░░░  Python • Git • GitHub         ← YOU ARE HERE
+   2026  ░░░░░░░░░░░░░░░░  HTML • CSS • JavaScript
+   2027  ░░░░░░░░░░░░░░░░  React • Node.js • Databases
+   2028  ░░░░░░░░░░░░░░░░  APIs • System Design
+   2029  ░░░░░░░░░░░░░░░░  Machine Learning • AI Basics
+🎯 2030  ░░░░░░░░░░░░░░░░  Full Stack + AI Developer ✨
 ```
 
-</div>
-
 ---
 
-## 📈 Contribution Activity
+### 📊 GitHub Stats
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chinnadomasrinivas&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/chinnadomasrinivas)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinnadomasrinivas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnadomasrinivas&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br/>
 
----
-
-## 📂 Featured Repository
-
-<div align="center">
-
-[![Python Practice](https://github-readme-stats.vercel.app/api/pin/?username=chinnadomasrinivas&repo=Python_Pactice&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/chinnadomasrinivas/Python_Pactice)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chinnadomasrinivas&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chinnadomasrinivas&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 📅 My Daily Commitment
+
+<div align="center">
+
+| 🕖 Daily Schedule | 📤 GitHub Habit | 📢 Learning Style |
+|:---:|:---:|:---:|
+| Code 7PM – 10:30PM | Push every single day | Learn in Public |
+| No off days | Build in the open | Share the journey |
+
+</div>
+
+---
+
+### 🌟 Latest Project
+
+<div align="center">
+
+[![Python Practice](https://github-readme-stats.vercel.app/api/pin/?username=chinnadomasrinivas&repo=Python_Pactice&theme=tokyonight&hide_border=true)](https://github.com/chinnadomasrinivas/Python_Pactice)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Srinivas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chinnadomasrinivas&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -191,14 +138,14 @@ print(me.motto())
 
 <div align="center">
 
-### 🤝 Open to Connect, Collaborate & Learn Together!
+### 💬 Connect & Let's Grow Together!
 
-**If you're also on Day 1 — or Day 1000 — let's connect!**
+*"Every expert was once a beginner. The only difference — they didn't quit."*
 
-[![LinkedIn](https://img.shields.io/badge/Say%20Hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-chinna-doma/)
+<br/>
 
----
+**If you're also Day 1 — let's connect and build together! 🤝**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=120&section=footer&text=Happy%20Coding!%20🐍&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
