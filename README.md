@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=chinnadomasrinivas&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F288530440%3Fu%3D82a0142df5a8885a9d8a0b0a601ea9cb4f1cefb3%26v%3D4" alt="chinnadomasrinivas hero visual" />
 </p>
 
-<p align="center"><b>chinnadoma Srinivas</b> · Frontend or full-stack engineer<br/><sub>BTech CSE @ NIAT | Learning Python 🐍 | Aspiring Full Stack + AI Dev</sub></p>
+<p align="center"><b>Frontend or full-stack engineer</b> · Hyderabad, Telangana</p>
 
 <p align="center"><a href="https://github.com/chinnadomasrinivas">GitHub</a></p>
 
